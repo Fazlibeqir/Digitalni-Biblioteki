@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\output.ogv</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MediainfoOGVPlugin</Metadata>
+    <Metadata name="FileSize">6515543</Metadata>
+    <Metadata name="Source">output.ogv</Metadata>
+    <Metadata name="SourceFile">output.ogv</Metadata>
+    <Metadata name="FileFormat">ogv</Metadata>
+    <Metadata name="dc.Format">ogv</Metadata>
+    <Metadata name="MimeType">video/ogg</Metadata>
+    <Metadata name="Movie">output.ogv</Metadata>
+    <Metadata name="srclink_file">output.ogv</Metadata>
+    <Metadata name="srclinkFile">output.ogv</Metadata>
+    <Metadata name="srcicon">_iconogg_</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">output</Metadata>
+    <Metadata name="Identifier">HASH01231516fd08fd6f3b4110f7</Metadata>
+    <Metadata name="lastmodified">1713303636</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713303651</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH0123.dir</Metadata>
+    <Metadata name="gsdlassocfile">output.ogv:video/ogg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

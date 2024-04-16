@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">it</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299413/English.html</Metadata>
+    <Metadata name="UTF8URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299413/English.html</Metadata>
+    <Metadata name="Title">English</Metadata>
+    <Metadata name="gsdlsourcefilename">import\English.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1713299413\English.html</Metadata>
+    <Metadata name="OrigSource">English.html</Metadata>
+    <Metadata name="Source">English.docx</Metadata>
+    <Metadata name="SourceFile">English.docx</Metadata>
+    <Metadata name="Plugin">UnknownConverterPlugin</Metadata>
+    <Metadata name="FileSize">4731</Metadata>
+    <Metadata name="FilenameRoot">English</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="MimeType">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Metadata>
+    <Metadata name="unknown_file">English.docx</Metadata>
+    <Metadata name="srclink_file">English.docx</Metadata>
+    <Metadata name="srclinkFile">English.docx</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="dc.Date">2014-02-16</Metadata>
+    <Metadata name="dc.Date">2014-01-15</Metadata>
+    <Metadata name="dc.Title">WordEnglish</Metadata>
+    <Metadata name="Identifier">HASH01b3ca144d438b59bb724da1</Metadata>
+    <Metadata name="lastmodified">1713298190</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713299415</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH01b3.dir</Metadata>
+    <Metadata name="gsdlassocfile">English.docx:application/vnd.openxmlformats-officedocument.wordprocessingml.document:</Metadata>
+  </Description>
+  <Content>
+&lt;p class=&quot;body_Text&quot;&gt;Hello, I am Beqir Fazli 191045&lt;/p&gt;
+&lt;p/&gt;
+
+
+</Content>
+</Section>
+</Archive>

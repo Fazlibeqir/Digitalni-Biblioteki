@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299417/Macedonian.html</Metadata>
+    <Metadata name="UTF8URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299417/Macedonian.html</Metadata>
+    <Metadata name="Title">Macedonian</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Macedonian.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1713299417\Macedonian.html</Metadata>
+    <Metadata name="OrigSource">Macedonian.html</Metadata>
+    <Metadata name="Source">Macedonian.docx</Metadata>
+    <Metadata name="SourceFile">Macedonian.docx</Metadata>
+    <Metadata name="Plugin">UnknownConverterPlugin</Metadata>
+    <Metadata name="FileSize">4392</Metadata>
+    <Metadata name="FilenameRoot">Macedonian</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="MimeType">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Metadata>
+    <Metadata name="unknown_file">Macedonian.docx</Metadata>
+    <Metadata name="srclink_file">Macedonian.docx</Metadata>
+    <Metadata name="srclinkFile">Macedonian.docx</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="dc.Date">2017-11-05</Metadata>
+    <Metadata name="dc.Title">WordMacedonian</Metadata>
+    <Metadata name="Identifier">HASH01d3c67f63e88669d18aadcb</Metadata>
+    <Metadata name="lastmodified">1713298192</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713299419</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH01d3.dir</Metadata>
+    <Metadata name="gsdlassocfile">Macedonian.docx:application/vnd.openxmlformats-officedocument.wordprocessingml.document:</Metadata>
+  </Description>
+  <Content>
+&lt;p class=&quot;body_Text&quot;&gt;Здраво, јас сум Беќир Фазли 191045 година&lt;/p&gt;
+
+
+</Content>
+</Section>
+</Archive>

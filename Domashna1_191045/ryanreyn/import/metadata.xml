@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Ryan Reynolds - Biography - IMDb\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Ryan Reynolds - Biography</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">IMDb</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ryan Reynolds, biography, IMDb</Metadata>
+			<Metadata mode="accumulate" name="dc.Description"> Biography of Ryan Reynolds from IMDb.</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Ryan Reynolds _ LinkedIn\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Ryan Reynolds - LinkedIn</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">LinkedIn</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ryan Reynolds, LinkedIn, profile</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Ryan Reynolds' profile on LinkedIn.</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Ryan Reynolds Movies and Shows - Apple TV\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Ryan Reynolds Movies and Shows</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Apple TV</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ryan Reynolds, movies, shows, Apple TV</Metadata>
+			<Metadata mode="accumulate" name="dc.Description"> List of movies and shows featuring Ryan Reynolds available on Apple TV.</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Ryan_Reynolds\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Ryan Reynolds - Wikipedia</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Wikipedia</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ryan Reynolds, Wikipedia, biography</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Wikipedia page about Ryan Reynolds.</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Wrexham A\.F\.C\. - Wikipedia\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Wrexham A.F.C. - Wikipedia</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator"> Wikipedia </Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Ryan Reynolds,Wrexham A.F.C., Wikipedia, football</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Wikipedia page about Wrexham A.F.C.</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

@@ -1,0 +1,21 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299409\Albanian.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299412\Albanian.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299413\English.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299416\English.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299417\Macedonian.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299419\Macedonian.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299420\Punjabi.html is being processed by HTMLPlugin.
+The file F:\GreenStone\web\sites\localsite\collect\domashna\tmp\1713299424\Punjabi.html is being processed by HTMLPlugin.
+************** Import Finished **************
+8 documents were considered for processing:
+    8 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Date;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Date;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

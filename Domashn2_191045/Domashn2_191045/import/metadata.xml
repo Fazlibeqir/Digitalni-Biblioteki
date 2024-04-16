@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Albanian\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">WordAlbanian</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-04-16</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Albanian\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">2006-03-16</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">PDFAlbanian</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>English\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">WordEnglish</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2014-02-16</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2014-01-15</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>English\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">PDFEnglish</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2005-08-30</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Macedonian\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">WordMacedonian</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2017-11-05</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Macedonian\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">PDFMacedonian</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2016-01-01</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Punjabi\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">WordPunjabi</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2000-01-01</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Punjabi\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">PDFPunjabi</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2015-06-15</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2019-07-08</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

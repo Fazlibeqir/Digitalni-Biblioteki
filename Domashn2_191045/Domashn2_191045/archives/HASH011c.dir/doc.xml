@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299420/Punjabi.html</Metadata>
+    <Metadata name="UTF8URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299420/Punjabi.html</Metadata>
+    <Metadata name="Title">Punjabi</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Punjabi.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1713299420\Punjabi.html</Metadata>
+    <Metadata name="OrigSource">Punjabi.html</Metadata>
+    <Metadata name="Source">Punjabi.docx</Metadata>
+    <Metadata name="SourceFile">Punjabi.docx</Metadata>
+    <Metadata name="Plugin">UnknownConverterPlugin</Metadata>
+    <Metadata name="FileSize">4418</Metadata>
+    <Metadata name="FilenameRoot">Punjabi</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="MimeType">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Metadata>
+    <Metadata name="unknown_file">Punjabi.docx</Metadata>
+    <Metadata name="srclink_file">Punjabi.docx</Metadata>
+    <Metadata name="srclinkFile">Punjabi.docx</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="dc.Date">2000-01-01</Metadata>
+    <Metadata name="dc.Title">WordPunjabi</Metadata>
+    <Metadata name="Identifier">HASH011c1d00eae6749591fa1caf</Metadata>
+    <Metadata name="lastmodified">1713298195</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713299423</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH011c.dir</Metadata>
+    <Metadata name="gsdlassocfile">Punjabi.docx:application/vnd.openxmlformats-officedocument.wordprocessingml.document:</Metadata>
+  </Description>
+  <Content>
+&lt;p class=&quot;body_Text&quot;&gt;ਹੈਲੋ, ਮੈਂ ਬੇਕੀਰ ਫਾਜ਼ਲੀ 191045 ਹਾਂ&lt;/p&gt;
+
+
+</Content>
+</Section>
+</Archive>

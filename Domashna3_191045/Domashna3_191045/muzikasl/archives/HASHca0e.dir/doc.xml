@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QnJ1bm8gTWFycyAtIFJ1bmF3YXkgQmFieQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">2364740</Metadata>
+    <Metadata name="Source">Bruno Mars - Runaway Baby.mp3</Metadata>
+    <Metadata name="SourceFile">QnJ1bm8gTWFycyAtIFJ1bmF3YXkgQmFieQ==.mp3</Metadata>
+    <Metadata name="mp3">Bruno Mars - Runaway Baby</Metadata>
+    <Metadata name="srcurl">QnJ1bm8gTWFycyAtIFJ1bmF3YXkgQmFieQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">QnJ1bm8gTWFycyAtIFJ1bmF3YXkgQmFieQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">QnJ1bm8gTWFycyAtIFJ1bmF3YXkgQmFieQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="Title">Bruno Mars - Runaway Baby</Metadata>
+    <Metadata name="Identifier">HASHca0e3a33e07ab04b6770ce</Metadata>
+    <Metadata name="lastmodified">1713302749</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713303651</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASHca0e.dir</Metadata>
+    <Metadata name="gsdlassocfile">QnJ1bm8gTWFycyAtIFJ1bmF3YXkgQmFieQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">fr</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299409/Albanian.html</Metadata>
+    <Metadata name="UTF8URL">http://F:/GreenStone/web/sites/localsite/collect/domashna/tmp/1713299409/Albanian.html</Metadata>
+    <Metadata name="Title">Albanian</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Albanian.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1713299409\Albanian.html</Metadata>
+    <Metadata name="OrigSource">Albanian.html</Metadata>
+    <Metadata name="Source">Albanian.docx</Metadata>
+    <Metadata name="SourceFile">Albanian.docx</Metadata>
+    <Metadata name="Plugin">UnknownConverterPlugin</Metadata>
+    <Metadata name="FileSize">4325</Metadata>
+    <Metadata name="FilenameRoot">Albanian</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="MimeType">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Metadata>
+    <Metadata name="unknown_file">Albanian.docx</Metadata>
+    <Metadata name="srclink_file">Albanian.docx</Metadata>
+    <Metadata name="srclinkFile">Albanian.docx</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="dc.Date">2024-04-16</Metadata>
+    <Metadata name="dc.Title">WordAlbanian</Metadata>
+    <Metadata name="Identifier">HASH184f36d9994a5a25214d85</Metadata>
+    <Metadata name="lastmodified">1713298186</Metadata>
+    <Metadata name="lastmodifieddate">20240416</Metadata>
+    <Metadata name="oailastmodified">1713299411</Metadata>
+    <Metadata name="oailastmodifieddate">20240416</Metadata>
+    <Metadata name="assocfilepath">HASH184f.dir</Metadata>
+    <Metadata name="gsdlassocfile">Albanian.docx:application/vnd.openxmlformats-officedocument.wordprocessingml.document:</Metadata>
+  </Description>
+  <Content>
+&lt;p&gt;Përshëndetje, unë jam Beqir Fazli 191045&lt;/p&gt;
+
+
+</Content>
+</Section>
+</Archive>
