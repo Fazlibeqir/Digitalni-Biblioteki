@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Muziki\Dua Lipa - New Rules %28Official Music Video%29.ogv</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MediainfoOGVPlugin</Metadata>
+    <Metadata name="FileSize">16805811</Metadata>
+    <Metadata name="Source">Dua Lipa - New Rules (Official Music Video).ogv</Metadata>
+    <Metadata name="SourceFile">Dua Lipa - New Rules %2528Official Music Video%2529.ogv</Metadata>
+    <Metadata name="FileFormat">ogv</Metadata>
+    <Metadata name="dc.Format">ogv</Metadata>
+    <Metadata name="MimeType">video/ogg</Metadata>
+    <Metadata name="Movie">Dua Lipa - New Rules (Official Music Video).ogv</Metadata>
+    <Metadata name="srclink_file">Dua Lipa - New Rules %2528Official Music Video%2529.ogv</Metadata>
+    <Metadata name="srclinkFile">Dua Lipa - New Rules %2528Official Music Video%2529.ogv</Metadata>
+    <Metadata name="srcicon">_iconogg_</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">2010s - Present, United Kingdom</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Description">This document provides an in-depth look at the music of Dua Lipa, including detailed information about her albums, singles, and musical style. </Metadata>
+    <Metadata name="dc.Format">PDF , mp3 and ogv</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Music Archive&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official records, music databases, and scholarly articles. </Metadata>
+    <Metadata name="dc.Subject">Music, Dua Lipa, Albums, Songs</Metadata>
+    <Metadata name="dc.Title">Music by Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document , audio and video</Metadata>
+    <Metadata name="gs.DocumentHeader">Music by Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Dua Lipa - New Rules (Official Music Video)</Metadata>
+    <Metadata name="Identifier">HASH0103b02fab93a81d3bf69d16</Metadata>
+    <Metadata name="lastmodified">1719699811</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791532</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH0103.dir</Metadata>
+    <Metadata name="gsdlassocfile">Dua Lipa - New Rules %28Official Music Video%29.ogv:video/ogg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

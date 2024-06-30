@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791546/life.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791546/life.html</Metadata>
+    <Metadata name="Title">life</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Zivot\life.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719791546\life.html</Metadata>
+    <Metadata name="OrigSource">life.html</Metadata>
+    <Metadata name="Source">life.pdf</Metadata>
+    <Metadata name="SourceFile">life.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">33875</Metadata>
+    <Metadata name="FilenameRoot">life</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Coverage">1990s - Present, United Kingdom, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Description">This document explores the personal and professional life of Dua Lipa, offering insights into her early years, career, and activities outside of music. </Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Life Stories Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source"> Compiled from autobiographies, interviews, and historical records.</Metadata>
+    <Metadata name="dc.Subject">Life, Biography, Dua Lipa, Personal Life</Metadata>
+    <Metadata name="dc.Title">Life of Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Life of Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH01ca79e686a6d138710232ec</Metadata>
+    <Metadata name="lastmodified">1719699809</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791547</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01ca.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:233px; top:78px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Dua Lipa’s Life&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:111px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Dua Lipa, born on August 22, 1995, in London, England, to Albanian&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:131px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;parents from Kosovo, has become one of the leading figures in&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:150px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;contemporary pop music. Her journey to stardom began at an early age&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:170px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;when she was influenced by her musician father, Dukagjin Lipa. This&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:189px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;early exposure to music inspired her to pursue singing, and by the age&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:209px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;of 14, she was uploading covers of her favorite songs on YouTube.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:243px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Dua moved to London at 15 to pursue a music career, working as a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:262px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;waitress and nightclub hostess while attending the Sylvia Young&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:282px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Theatre School part-time. Her determination paid off when she signed&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:301px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;with Warner Bros. Records in 2015, leading to the release of her debut&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:321px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;single, &amp;quot;New Love,&amp;quot; followed by the breakout hit &amp;quot;Be the One.&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:354px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Her self-titled debut album, released in 2017, featured several&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:374px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;successful singles, including &amp;quot;IDGAF&amp;quot; and &amp;quot;New Rules,&amp;quot; the latter of&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:393px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;which became a global anthem of empowerment. The album's success&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:413px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;earned her critical acclaim and numerous awards, including the BRIT&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:432px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Award for British Female Solo Artist.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:466px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beyond her musical achievements, Dua Lipa is known for her advocacy&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:486px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;work. She has been involved in various philanthropic efforts, including&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:505px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;support for LGBTQ+ rights, mental health awareness, and charitable&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:525px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;organizations in Kosovo.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:558px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Her blend of powerful vocals, catchy melodies, and confident persona&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:578px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;has made her a role model for many young fans worldwide. As she&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:597px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;continues to evolve as an artist and a public figure, Dua Lipa remains a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:617px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;prominent and influential presence in the music industry.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

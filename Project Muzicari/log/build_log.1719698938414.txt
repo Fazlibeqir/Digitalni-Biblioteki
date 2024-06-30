@@ -1,0 +1,49 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719698942\Biography.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\album_cover.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\concert_photo.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\early_years.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\later_yearsjpg.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\abbey_road.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719698949\discography.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\let_it_be.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\please_please_me.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\sgt_pepper.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719698953\Interesting_facts.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\ed_sullivan.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\india_visit.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\memorabilia.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\rooftop_concert.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Come Together.ogv is being processed by MediainfoOGVPlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Here Comes The Sun (2019 Mix).mp4.ogv is being processed by MediainfoOGVPlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Hey Jude.mp3 is being processed by MP3Plugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Let It Be.mp3 is being processed by MP3Plugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719698960\The Beatles Songs.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\award_ceremony.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719698962\awards.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\brit_award.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\grammy.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\receiving_award.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\childhood.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\george_estate.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\john.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719698969\life.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\paul_family.jpg is being processed by ImagePlugin.
+************** Import Finished **************
+30 documents were considered for processing:
+    30 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Title;dc.Contributor;dc.Coverage;dc.Creator;dc.Date;dc.Description;dc.Format;dc.Language;dc.Relation;dc.Type;dc.Rights;dc.Source;dc.Subject;gs.DocumentHeader;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Title;dc.Contributor;dc.Coverage;dc.Creator;dc.Date;dc.Description;dc.Format;dc.Language;dc.Relation;dc.Type;dc.Rights;dc.Source;dc.Subject;gs.DocumentHeader;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

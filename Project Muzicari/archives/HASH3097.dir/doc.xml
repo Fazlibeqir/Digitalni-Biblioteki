@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791553/Biography.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791553/Biography.html</Metadata>
+    <Metadata name="Title">Biography</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Bleron - Maitre Gims\Biography\Biography.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719791553\Biography.html</Metadata>
+    <Metadata name="OrigSource">Biography.html</Metadata>
+    <Metadata name="Source">Biography.pdf</Metadata>
+    <Metadata name="SourceFile">Biography.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">291051</Metadata>
+    <Metadata name="FilenameRoot">Biography</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Contributor">Besnik Durguti</Metadata>
+    <Metadata name="dc.Coverage">1980s - Present, France</Metadata>
+    <Metadata name="dc.Creator">Bleron Iseni</Metadata>
+    <Metadata name="dc.Date">2024-06-29</Metadata>
+    <Metadata name="dc.Description">This document provides a detailed biography of Maître Gims, covering his early life, rise to fame, musical achievements, and influence in the rap and hip-hop industry.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">French</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Maître Gims: The Complete Biography&quot; collection.</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from various sources including interviews, articles, and official records.</Metadata>
+    <Metadata name="dc.Subject">Biography, Maître Gims, Music Career, Rapper</Metadata>
+    <Metadata name="dc.Title">Biography of Maître Gims</Metadata>
+    <Metadata name="dc.Type">Text/Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Biography of Maître Gims by Bleron Iseni</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH3097609503e4d32bcaef62</Metadata>
+    <Metadata name="lastmodified">1719790681</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719791553</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH3097.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:76px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Maitre Gims&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, born Gandhi Djuna on May 6, 1986, in Kinshasa,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:96px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Zaire (now the Democratic Republic of the Congo), is a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:117px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;prominent Congolese-French singer, rapper, and songwriter. He&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:138px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;rose to fame as a member of the hip-hop group Sexion d'Assaut,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:158px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;which gained significant popularity in the late 2000s.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:193px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Gims moved to France at a young age and grew up in Paris. He&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:214px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;developed a passion for music early on and pursued it alongside&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:234px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;his education. In 2002, he joined Sexion d'Assaut, contributing&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:255px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;to their success with his distinctive voice and musical style. The&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:276px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;group's albums, such as &amp;quot;L'École des Points Vitaux&amp;quot; and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:297px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;L'Apogée,&amp;quot; were major hits in the French-speaking world.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:331px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;In 2013, Gims embarked on a solo career, releasing his debut&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:352px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;album &amp;quot;Subliminal,&amp;quot; which featured chart-topping singles like&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:373px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;J'me tire&amp;quot; and &amp;quot;Bella.&amp;quot; The album's success established him as a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:393px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;solo artist, and he continued to release hit albums, including&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:414px;&quot;&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Mon cœur avait raison&amp;quot; (2015) and &amp;quot;Ceinture noire&amp;quot; (2018).&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:435px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;His music blends hip-hop, pop, and R&amp;amp;B, appealing to a broad&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:456px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;audience.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:490px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Maitre Gims is known for his versatility, unique style, and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:511px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;signature sunglasses. Beyond music, he has ventured into&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:532px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;fashion and business. His contributions to the music industry&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:552px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;have earned him numerous awards and a dedicated fan base&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:573px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;worldwide.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

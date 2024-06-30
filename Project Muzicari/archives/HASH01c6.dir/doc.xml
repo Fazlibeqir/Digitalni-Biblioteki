@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QmVxaXIgRmF6bGkgMTkxMDQ1LSBUaGUgQmVhdGxlcw==\TXV6aWtp\VGhlIEJlYXRsZXMgLSBMZXQgSXQgQmU=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">9712365</Metadata>
+    <Metadata name="Source">The Beatles - Let It Be.mp3</Metadata>
+    <Metadata name="SourceFile">VGhlIEJlYXRsZXMgLSBMZXQgSXQgQmU=.mp3</Metadata>
+    <Metadata name="mp3">The Beatles - Let It Be</Metadata>
+    <Metadata name="srcurl">VGhlIEJlYXRsZXMgLSBMZXQgSXQgQmU=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">VGhlIEJlYXRsZXMgLSBMZXQgSXQgQmU=.mp3</Metadata>
+    <Metadata name="srclinkFile">VGhlIEJlYXRsZXMgLSBMZXQgSXQgQmU=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1960s - 1970s, United Kingdom</Metadata>
+    <Metadata name="dc.Creator">Beqir Fazli</Metadata>
+    <Metadata name="dc.Date">2024-06-23</Metadata>
+    <Metadata name="dc.Description">This document provides an in-depth look at the music of The Beatles, including detailed information about their albums, singles, and musical style.</Metadata>
+    <Metadata name="dc.Format">PDF , mp3 and ogv</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;The Beatles Music Archive&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official records, music databases, and scholarly articles.</Metadata>
+    <Metadata name="dc.Subject">Music, The Beatles, Albums, Songs</Metadata>
+    <Metadata name="dc.Title">Music by The Beatles</Metadata>
+    <Metadata name="dc.Type">Text/Document , audio and video</Metadata>
+    <Metadata name="gs.DocumentHeader">Music by The Beatles by Beqir Fazli</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://archive.org/details/the-beatles-1967-1970-2023-edition</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">The Beatles - Let It Be</Metadata>
+    <Metadata name="Identifier">HASH01c6dfce97cb607bc9666fd5</Metadata>
+    <Metadata name="lastmodified">1719696234</Metadata>
+    <Metadata name="lastmodifieddate">20240629</Metadata>
+    <Metadata name="oailastmodified">1719791498</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01c6.dir</Metadata>
+    <Metadata name="gsdlassocfile">VGhlIEJlYXRsZXMgLSBMZXQgSXQgQmU=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

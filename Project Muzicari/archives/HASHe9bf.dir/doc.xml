@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Zivot\Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="OrigSource">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="Source">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="SourceFile">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">118002</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">1155</Metadata>
+    <Metadata name="ImageHeight">681</Metadata>
+    <Metadata name="ImageSize">115KB</Metadata>
+    <Metadata name="srclink_file">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="srclinkFile">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">59</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">295</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1990s - Present, United Kingdom, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Description">This document explores the personal and professional life of Dua Lipa, offering insights into her early years, career, and activities outside of music. </Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Life Stories Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source"> Compiled from autobiographies, interviews, and historical records.</Metadata>
+    <Metadata name="dc.Subject">Life, Biography, Dua Lipa, Personal Life</Metadata>
+    <Metadata name="dc.Title">Life of Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Life of Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c</Metadata>
+    <Metadata name="Identifier">HASHe9bf081d9a608915a16c47</Metadata>
+    <Metadata name="lastmodified">1719699809</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791539</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHe9bf.dir</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Beqir Fazli 191045- The Beatles\Biografija\concert_photo.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">concert_photo.jpg</Metadata>
+    <Metadata name="OrigSource">concert_photo.jpg</Metadata>
+    <Metadata name="Source">concert_photo.jpg</Metadata>
+    <Metadata name="SourceFile">concert_photo.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">140252</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">1000</Metadata>
+    <Metadata name="ImageHeight">800</Metadata>
+    <Metadata name="ImageSize">137KB</Metadata>
+    <Metadata name="srclink_file">concert_photo.jpg</Metadata>
+    <Metadata name="srclinkFile">concert_photo.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">concert_photo_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">80</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">concert_photo_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">400</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Besnik Durguti</Metadata>
+    <Metadata name="dc.Coverage">1960s - 1970s, United Kingdom</Metadata>
+    <Metadata name="dc.Creator">Beqir Fazli</Metadata>
+    <Metadata name="dc.Date">2024-06-23</Metadata>
+    <Metadata name="dc.Description">A detailed biography of the band The Beatles.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;The Beatles: A Complete Guide&quot; collection.</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source"> Compiled from various sources including books, articles, and web searches</Metadata>
+    <Metadata name="dc.Subject">Biography, The Beatles, Music History</Metadata>
+    <Metadata name="dc.Title">Biography of The Beatles</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Biography of The Beatles by Beqir Fazli</Metadata>
+    <Metadata name="gs.OAIDateStamp">2024-06-29</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">concert photo</Metadata>
+    <Metadata name="Identifier">HASHf8c9a3752b42b415e0d716</Metadata>
+    <Metadata name="lastmodified">1719696245</Metadata>
+    <Metadata name="lastmodifieddate">20240629</Metadata>
+    <Metadata name="oailastmodified">1719791484</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHf8c9.dir</Metadata>
+    <Metadata name="gsdlassocfile">concert_photo.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">concert_photo_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">concert_photo_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Beqir Fazli 191045- The Beatles\Nagradi\award_ceremony.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">award_ceremony.jpg</Metadata>
+    <Metadata name="OrigSource">award_ceremony.jpg</Metadata>
+    <Metadata name="Source">award_ceremony.jpg</Metadata>
+    <Metadata name="SourceFile">award_ceremony.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">8455</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">318</Metadata>
+    <Metadata name="ImageHeight">159</Metadata>
+    <Metadata name="ImageSize">8.26KB</Metadata>
+    <Metadata name="srclink_file">award_ceremony.jpg</Metadata>
+    <Metadata name="srclinkFile">award_ceremony.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">award_ceremony_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">50</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">award_ceremony_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">250</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1960s - Present, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Beqir Fazli</Metadata>
+    <Metadata name="dc.Date">2024-06-23</Metadata>
+    <Metadata name="dc.Description">This document lists the numerous awards and recognitions received by The Beatles throughout their career, highlighting their significant contributions to music.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;The Beatles Honors and Accolades Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source"> Compiled from award ceremony records, music industry databases, and official announcements.</Metadata>
+    <Metadata name="dc.Subject">Awards, The Beatles, Music Awards, Achievements</Metadata>
+    <Metadata name="dc.Title">Awards Won by The Beatles</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Awards Won by The Beatles by Beqir Fazli</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">award ceremony</Metadata>
+    <Metadata name="Identifier">HASH01cee170daf5b4987829b9a3</Metadata>
+    <Metadata name="lastmodified">1719696233</Metadata>
+    <Metadata name="lastmodifieddate">20240629</Metadata>
+    <Metadata name="oailastmodified">1719791500</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01ce.dir</Metadata>
+    <Metadata name="gsdlassocfile">award_ceremony.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">award_ceremony_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">award_ceremony_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

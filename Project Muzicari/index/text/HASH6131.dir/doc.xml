@@ -1,0 +1,304 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH6131.dir\doc.xml"  gs2:docOID="HASH6131f5677c9574ff29a72f" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH6131f5677c9574ff29a72f" gs2:mode="add">
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH6131f5677c9574ff29a72f.1" gs2:mode="add">
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:serif; font-weight:bold; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f7 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:69px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:24px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles: Life and Journey&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:113px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Formation and Early Years&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:139px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Origin: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles were formed in Liverpool, England, in 1960. The original lineup&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:155px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;included John Lennon, Paul McCartney, George Harrison, Stuart Sutcliffe, and Pete Best.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:171px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Over time, the lineup solidified with Lennon, McCartney, Harrison, and later Ringo Starr.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:200px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Hamburg Years: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The band honed their skills and developed their distinctive sound during&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:217px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;their residencies in Hamburg, Germany, from 1960 to 1962. These years were crucial in&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:232px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;shaping their musical identity and stage presence.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:273px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Rise to Fame and Beatlemania&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:299px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Breakthrough: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles' rise to fame began in the early 1960s, propelled by their&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:315px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;energetic live performances and catchy melodies. Their appearance on &amp;quot;The Ed Sullivan&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:331px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Show&amp;quot; in February 1964 marked their breakthrough in the United States, sparking a&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:347px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;phenomenon known as &amp;quot;Beatlemania.&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:376px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Global Success: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Throughout the mid-1960s, The Beatles dominated the charts with a string&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:393px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;of hit singles and albums, influencing youth culture worldwide with their music, fashion,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:408px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and personalities.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:449px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Artistic Evolution and Experimental Phase&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:475px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Musical Exploration: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Starting with albums like &amp;quot;Rubber Soul&amp;quot; (1965) and &amp;quot;Revolver&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:491px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(1966), The Beatles pushed the boundaries of popular music, incorporating new sounds and&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:507px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;experimental studio techniques influenced by psychedelia and Eastern music.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:536px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Sgt. Pepper's Era: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Sgt. Pepper's Lonely Hearts Club Band&amp;quot; (1967) marked a turning point,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:553px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;showcasing their artistic maturity and conceptual approach to album-making. It is often&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:569px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;regarded as one of the greatest albums in music history.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:609px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Personal and Professional Challenges&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:635px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Creative Tensions: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;As the band evolved, creative tensions emerged, particularly between&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:651px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Lennon and McCartney, shaping their songwriting dynamics and contributing to the&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:667px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;complexity of their later albums.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:696px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Managerial Changes: &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Brian Epstein's sudden death in 1967 and disagreements over&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:713px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;business decisions led to internal challenges within the band, impacting their unity and&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:729px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;direction.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH6131f5677c9574ff29a72f.2" gs2:mode="add">
+
+
+&lt;div id=&quot;page2&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f1 { font-family:serif; font-weight:bold; font-style:normal; }
+
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f6 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:57px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Legacy and Post-Beatles Careers&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:83px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Legacy: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles' influence extends far beyond their years together. Their music&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:99px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;continues to inspire generations of artists, and their impact on popular culture remains&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:115px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;profound, from fashion trends to societal attitudes.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:145px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Solo Careers: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;After their breakup in 1970, each member pursued successful solo careers.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:161px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Lennon, McCartney, Harrison, and Starr achieved individual acclaim, further cementing&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:177px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;their status as musical icons.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:217px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Cultural Impact and Enduring Popularity&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:243px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Cultural Icons: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles' legacy as cultural icons transcends their music, embodying the&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:259px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;spirit of the 1960s and influencing social change through their lyrics and activism.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:289px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Global Reach: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Their music continues to be celebrated and studied worldwide, with new&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:305px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;generations discovering and appreciating their timeless songs and innovative approach to&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:321px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;rock and pop music.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>

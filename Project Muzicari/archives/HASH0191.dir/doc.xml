@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Bleron - Maitre Gims\Songs\Ma%EEtre Gims - Est-ce que tu m%27aimes.ogv</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MediainfoOGVPlugin</Metadata>
+    <Metadata name="FileSize">8282873</Metadata>
+    <Metadata name="Source">Ma�tre Gims - Est-ce que tu m'aimes.ogv</Metadata>
+    <Metadata name="SourceFile">Ma%25EEtre Gims - Est-ce que tu m%2527aimes.ogv</Metadata>
+    <Metadata name="FileFormat">ogv</Metadata>
+    <Metadata name="dc.Format">ogv</Metadata>
+    <Metadata name="MimeType">video/ogg</Metadata>
+    <Metadata name="Movie">Ma�tre Gims - Est-ce que tu m'aimes.ogv</Metadata>
+    <Metadata name="srclink_file">Ma%25EEtre Gims - Est-ce que tu m%2527aimes.ogv</Metadata>
+    <Metadata name="srclinkFile">Ma%25EEtre Gims - Est-ce que tu m%2527aimes.ogv</Metadata>
+    <Metadata name="srcicon">_iconogg_</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Beqir Fazli</Metadata>
+    <Metadata name="dc.Coverage"> 2000s - Present, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Bleron Iseni</Metadata>
+    <Metadata name="dc.Date">2024-06-29</Metadata>
+    <Metadata name="dc.Description">This document provides an in-depth look at the songs by Maître Gims, including detailed information about his albums, singles, and musical style.</Metadata>
+    <Metadata name="dc.Format">PDF , mp3 and ogv</Metadata>
+    <Metadata name="dc.Language">French</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Maître Gims Songs Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official records, music databases, and scholarly articles.</Metadata>
+    <Metadata name="dc.Subject">Music, Songs, Maître Gims, Albums, Singles</Metadata>
+    <Metadata name="dc.Title">Songs by Maître Gims</Metadata>
+    <Metadata name="dc.Type">Text/Document , audio and video</Metadata>
+    <Metadata name="gs.DocumentHeader">Songs by Maître Gims by Bleron Iseni</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Ma�tre Gims - Est-ce que tu m'aimes</Metadata>
+    <Metadata name="Identifier">HASH019141861b1d7f65e8f29161</Metadata>
+    <Metadata name="lastmodified">1719790680</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719791578</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH0191.dir</Metadata>
+    <Metadata name="gsdlassocfile">Ma%EEtre Gims - Est-ce que tu m%27aimes.ogv:video/ogg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

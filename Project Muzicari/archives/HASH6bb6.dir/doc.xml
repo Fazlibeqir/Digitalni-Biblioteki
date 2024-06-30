@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="OrigSource">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="Source">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="SourceFile">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">80821</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">1080</Metadata>
+    <Metadata name="ImageHeight">1153</Metadata>
+    <Metadata name="ImageSize">78.9KB</Metadata>
+    <Metadata name="srclink_file">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="srclinkFile">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">5-Things-You-Didnt-Know-About-Dua-Lipa2_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">94</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">5-Things-You-Didnt-Know-About-Dua-Lipa2_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">468</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1990s - Present, United Kingdom, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Trivia Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from interviews, articles, and fan contributions.</Metadata>
+    <Metadata name="dc.Subject">This document contains a collection of interesting and lesser-known facts about Dua Lipa, highlighting unique aspects of her career and personal life.</Metadata>
+    <Metadata name="dc.Title">Interesting Facts about Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Interesting Facts about Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">5-Things-You-Didnt-Know-About-Dua-Lipa2</Metadata>
+    <Metadata name="Identifier">HASH6bb6cacfe9a1b90b2e6ae2</Metadata>
+    <Metadata name="lastmodified">1719699815</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791526</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH6bb6.dir</Metadata>
+    <Metadata name="gsdlassocfile">5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">5-Things-You-Didnt-Know-About-Dua-Lipa2_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">5-Things-You-Didnt-Know-About-Dua-Lipa2_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

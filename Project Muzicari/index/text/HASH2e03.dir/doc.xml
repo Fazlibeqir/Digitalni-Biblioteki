@@ -1,0 +1,658 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH2e03.dir\doc.xml"  gs2:docOID="HASH2e0324addf6c955078bf8a" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH2e0324addf6c955078bf8a" gs2:mode="add">
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH2e0324addf6c955078bf8a.1" gs2:mode="add">
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:serif; font-weight:bold; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:69px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:24px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles: Discography and Filmography&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:113px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Studio Albums&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:146px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Please Please Me (1963)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:168px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;March 22, 1963&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:184px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;I Saw Her Standing There,&amp;quot; &amp;quot;Love Me Do,&amp;quot; &amp;quot;Please Please Me&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:199px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles' debut album that captured their early rock 'n' roll sound and&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:216px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;youthful energy.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:253px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;With The Beatles (1963)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:274px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;November 22, 1963&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:290px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;All My Loving,&amp;quot; &amp;quot;Money (That's What I Want),&amp;quot; &amp;quot;It Won't Be Long&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:306px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Their second album, showcasing a blend of original compositions and covers.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:344px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A Hard Day's Night (1964)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:365px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;July 10, 1964&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:381px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;A Hard Day's Night,&amp;quot; &amp;quot;Can't Buy Me Love,&amp;quot; &amp;quot;And I Love Her&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:397px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Soundtrack album for their first feature film, capturing the frenzy of&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:413px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beatlemania.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:450px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beatles for Sale (1964)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:472px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;December 4, 1964&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:488px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Eight Days a Week,&amp;quot; &amp;quot;I'll Follow the Sun,&amp;quot; &amp;quot;Baby's in Black&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:503px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Reflective of their exhausting schedule, mixing rock 'n' roll with introspective&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:520px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ballads.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:557px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Help! (1965)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:578px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;August 6, 1965&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:594px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Help!,&amp;quot; &amp;quot;Ticket to Ride,&amp;quot; &amp;quot;Yesterday&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:610px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Soundtrack to their second film, showing a transition to more mature&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:626px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;songwriting.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:664px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Rubber Soul (1965)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:685px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;December 3, 1965&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:701px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Norwegian Wood (This Bird Has Flown),&amp;quot; &amp;quot;In My Life,&amp;quot; &amp;quot;Michelle&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:717px;&quot;&gt;&lt;span class=&quot;p1f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Marked a shift towards introspective lyrics and experimental studio&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:733px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;techniques.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH2e0324addf6c955078bf8a.2" gs2:mode="add">
+
+
+&lt;div id=&quot;page2&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f1 { font-family:serif; font-weight:bold; font-style:normal; }
+
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f6 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:57px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Revolver (1966)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:78px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;August 5, 1966&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:94px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Eleanor Rigby,&amp;quot; &amp;quot;Tomorrow Never Knows,&amp;quot; &amp;quot;Yellow Submarine&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:110px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Innovative and eclectic album, pushing the boundaries of studio production.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:148px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Sgt. Pepper's Lonely Hearts Club Band (1967)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:169px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;June 1, 1967&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:185px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Lucy in the Sky with Diamonds,&amp;quot; &amp;quot;A Day in the Life,&amp;quot; &amp;quot;With a Little Help&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:201px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;from My Friends&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:217px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Iconic concept album that revolutionized music with its thematic unity and&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:233px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;production techniques.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:270px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Magical Mystery Tour (1967)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:292px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;November 27, 1967&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:308px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Strawberry Fields Forever,&amp;quot; &amp;quot;Penny Lane,&amp;quot; &amp;quot;All You Need Is Love&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:323px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Soundtrack to their psychedelic television film, blending music and visual&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:340px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;artistry.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:377px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles (White Album) (1968)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:398px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;November 22, 1968&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:414px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Back in the U.S.S.R.,&amp;quot; &amp;quot;While My Guitar Gently Weeps,&amp;quot; &amp;quot;Helter Skelter&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:430px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Double album showcasing diverse musical styles and individual songwriting&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:446px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;contributions.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:483px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Yellow Submarine (1969)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:505px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;January 17, 1969&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:521px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Yellow Submarine,&amp;quot; &amp;quot;All Together Now,&amp;quot; &amp;quot;It's All Too Much&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:537px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Soundtrack to the animated film, featuring both new and previously released&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:553px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;tracks.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:590px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Abbey Road (1969)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:612px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;September 26, 1969&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:627px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Come Together,&amp;quot; &amp;quot;Something,&amp;quot; &amp;quot;Here Comes the Sun&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:643px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Last recorded album by The Beatles, known for its medley and iconic cover&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:660px;&quot;&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;image.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:697px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be (1970)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:718px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;May 8, 1970&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:734px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Key Tracks: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Let It Be,&amp;quot; &amp;quot;The Long and Winding Road,&amp;quot; &amp;quot;Get Back&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:750px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p2f6&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Soundtrack to the documentary film showing the band's tumultuous final days.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH2e0324addf6c955078bf8a.3" gs2:mode="add">
+
+
+&lt;div id=&quot;page3&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f1 { font-family:serif; font-weight:bold; font-style:normal; }
+
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f7 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p3f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:57px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Films&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:91px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A Hard Day's Night (1964)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:112px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;July 1964&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:128px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Directed by Richard Lester, this film captures a fictionalized day in the life of&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:144px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Beatles during the height of Beatlemania.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:181px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Help! (1965)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:203px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;July 1965&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:219px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Another film directed by Richard Lester, featuring The Beatles in a comedic&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:235px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;adventure with a mix of music and humor.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:272px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Magical Mystery Tour (1967)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:294px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;December 1967&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:310px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A surreal television film written and directed by The Beatles, featuring various&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:326px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;musical segments.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:363px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Yellow Submarine (1968)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:384px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;July 1968&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:400px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;An animated musical film inspired by The Beatles' music, known for its&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:417px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;psychedelic visuals and storytelling.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:454px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Let It Be (1970)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:475px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Release Date: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;May 1970&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:78px; top:491px;&quot;&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;• &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Description: &lt;/span&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;A documentary film directed by Michael Lindsay-Hogg, showcasing The&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:92px; top:507px;&quot;&gt;&lt;span class=&quot;p3f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Beatles during the recording of their album &amp;quot;Let It Be.&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Diskografija ili Filmografija\Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="OrigSource">Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="Source">Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="SourceFile">Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">71866</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">696</Metadata>
+    <Metadata name="ImageHeight">442</Metadata>
+    <Metadata name="ImageSize">70.2KB</Metadata>
+    <Metadata name="srclink_file">Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="srclinkFile">Dua-Lipa-696x442.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">Dua-Lipa-696x442_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">64</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">Dua-Lipa-696x442_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">318</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Beqir Fazli</Metadata>
+    <Metadata name="dc.Coverage">2010s - Present, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Description">This document provides a comprehensive list of all albums, singles, and music videos produced by Dua Lipa, including release dates and notable details. </Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Complete Works&quot; collection.</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official discographies, music databases, and video archives.</Metadata>
+    <Metadata name="dc.Subject">Discography, Filmography, Dua Lipa, Albums, Music Videos</Metadata>
+    <Metadata name="dc.Title">iscography and Filmography of Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Discography and Filmography of Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Dua-Lipa-696x442</Metadata>
+    <Metadata name="Identifier">HASH01054a29c093525810e36f58</Metadata>
+    <Metadata name="lastmodified">1719699815</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791519</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH0105.dir</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-696x442.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-696x442_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-696x442_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

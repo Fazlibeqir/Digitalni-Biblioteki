@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Life of The Beatles </Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Beqir Fazli</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject"> Life, Biography, The Beatles, Personal Life</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">This document explores the personal and professional lives of The Beatles members, offering insights into their early years, careers, and post-band activities.</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-23</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text/Document and Images</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF and JPEG</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Compiled from autobiographies, interviews, and historical records.</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Related to "The Beatles Life Stories Collection"</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">1940s - Present, United Kingdom, Worldwide</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Life of The Beatles by Beqir Fazli</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

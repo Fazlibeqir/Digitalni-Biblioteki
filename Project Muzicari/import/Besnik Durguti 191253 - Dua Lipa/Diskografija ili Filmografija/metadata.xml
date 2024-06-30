@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">iscography and Filmography of Dua Lipa</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Besnik Durguti</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Beqir Fazli</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Discography, Filmography, Dua Lipa, Albums, Music Videos</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">This document provides a comprehensive list of all albums, singles, and music videos produced by Dua Lipa, including release dates and notable details. </Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-24</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text/Document and Images</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF and JPEG</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Compiled from official discographies, music databases, and video archives.</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Related to "Dua Lipa Complete Works" collection.</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">2010s - Present, Worldwide</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Discography and Filmography of Dua Lipa by Besnik Durguti</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

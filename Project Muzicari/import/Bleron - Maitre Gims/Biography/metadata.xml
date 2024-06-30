@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Biography of Maître Gims</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Bleron Iseni</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Biography, Maître Gims, Music Career, Rapper</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">This document provides a detailed biography of Maître Gims, covering his early life, rise to fame, musical achievements, and influence in the rap and hip-hop industry.</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Besnik Durguti</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-29</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text/Document</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF and JPEG</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Compiled from various sources including interviews, articles, and official records.</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">French</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Related to "Maître Gims: The Complete Biography" collection.</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">1980s - Present, France</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Biography of Maître Gims by Bleron Iseni</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

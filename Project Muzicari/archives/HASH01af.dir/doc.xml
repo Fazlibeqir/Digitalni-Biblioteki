@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791559/Discography.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791559/Discography.html</Metadata>
+    <Metadata name="Title">Discography</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Bleron - Maitre Gims\Discography\Discography.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719791559\Discography.html</Metadata>
+    <Metadata name="OrigSource">Discography.html</Metadata>
+    <Metadata name="Source">Discography.pdf</Metadata>
+    <Metadata name="SourceFile">Discography.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">120692</Metadata>
+    <Metadata name="FilenameRoot">Discography</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Contributor">Beqir Fazli</Metadata>
+    <Metadata name="dc.Coverage"> 2000s - Present, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Bleron Iseni</Metadata>
+    <Metadata name="dc.Date">2024-06-29</Metadata>
+    <Metadata name="dc.Description">This document provides a comprehensive list of all albums, singles, and music videos produced by Maître Gims, including release dates and notable details.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">French</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Maître Gims Complete Works&quot; collection.</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official discographies, music databases, and video archives.</Metadata>
+    <Metadata name="dc.Subject">Discography, Maître Gims, Albums, Music Videos</Metadata>
+    <Metadata name="dc.Title">Discography of Maître Gims</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Discography of Maître Gims by Bleron Iseni</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH01af4ca3bb4142479130dbe2</Metadata>
+    <Metadata name="lastmodified">1719790681</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719791559</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01af.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f189 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f191 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f192 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f193 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f194 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f195 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f196 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f197 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f198 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f199 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f200 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f201 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f202 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f203 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f204 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f205 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f206 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f207 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f208 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f209 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f210 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f211 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f212 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f213 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f214 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f215 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f216 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f217 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f218 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f219 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f220 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f221 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f222 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f223 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f224 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f225 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f226 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f227 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f228 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f229 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f230 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f231 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f232 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f233 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f234 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f235 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f236 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f237 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f238 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f239 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f240 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f241 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f242 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f243 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f244 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f245 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f246 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f247 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f248 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f249 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f250 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f251 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f252 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f253 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f254 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f255 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f256 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f257 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f258 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f259 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f260 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f261 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f262 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f263 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f264 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f265 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f266 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f267 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f268 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f269 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f270 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f271 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f272 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f273 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f274 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f275 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f276 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f277 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f278 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f279 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f280 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f281 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f282 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f283 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f284 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f285 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f286 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f287 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f288 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f289 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f290 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f291 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f292 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f293 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f294 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f295 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f296 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f297 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f298 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f299 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f300 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f301 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f302 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f303 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f304 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f305 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f306 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f307 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f308 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f309 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f310 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f311 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f312 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f313 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f314 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f315 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f316 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f317 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f318 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f319 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f320 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f321 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f322 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f323 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f324 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f325 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f326 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f327 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f328 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f329 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f330 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f331 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f332 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f333 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f334 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f335 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f336 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f337 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f338 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f339 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f340 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f341 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f342 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f343 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f344 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f345 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f346 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f347 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f348 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f349 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f350 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f351 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f352 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f353 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f354 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f355 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f356 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f357 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f358 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f359 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f360 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f361 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f362 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f363 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f364 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f365 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f366 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f367 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f368 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f369 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f370 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f371 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f372 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f373 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f374 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f375 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f376 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f377 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f378 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f379 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f380 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f381 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f382 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f383 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f384 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f385 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f386 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f387 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f388 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f389 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f390 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f391 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f392 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f393 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f394 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f395 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f396 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f397 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f398 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f399 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f400 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f401 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f402 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f403 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f404 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f405 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f406 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f407 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f408 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f409 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f410 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f411 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f412 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f413 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f414 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f415 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f416 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f417 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f418 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f419 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f420 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f421 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f422 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f423 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f424 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f425 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:66px; top:78px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;### Solo Studio Albums:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:101px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1. **Subliminal (2013)**: Gims' debut solo album, featuring hit singles like &amp;quot;J'me tire,&amp;quot; &amp;quot;Bella,&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:116px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;and &amp;quot;Zombie.&amp;quot; The album was a commercial success, solidifying his position as a leading figure&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:131px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;in the French music scene.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:154px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2. &lt;/span&gt;&lt;span class=&quot;p1f28&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;**Mon cœur avait raison (2015)**: This &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;album is divided into two parts: &amp;quot;Pilule bleue&amp;quot; and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:169px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Pilule rouge.&amp;quot; It includes popular tracks such as &amp;quot;Sapés comme jamais,&amp;quot; &amp;quot;Brisé,&amp;quot; and &amp;quot;Est-ce&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:184px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;que tu m'aimes?&amp;quot; The album received critical acclaim and further established his versatility as an&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:199px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;artist.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:222px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3. **Ceinture noire (2018)**: A double album that includes hits like &amp;quot;La même&amp;quot; (featuring&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:236px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Vianney), &amp;quot;Mi Gna&amp;quot; (with Super Sako), and &amp;quot;Corazón.&amp;quot; The album showcases Gims' ability to&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:251px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;incorporate various musical styles and collaborate with artists from different genres.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:274px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4. **Ceinture noire - Transcendance (2019)**: An expanded version of &amp;quot;Ceinture noire,&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:289px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;featuring additional tracks like &amp;quot;Reste&amp;quot; (featuring Sting) and &amp;quot;Le Pire.&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:312px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;5. **Le Fléau (2020)**: Gims' latest album, including singles like &amp;quot;Yolo,&amp;quot; &amp;quot;Immortel,&amp;quot; and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:327px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;Origami.&amp;quot; The album reflects his continued growth and experimentation with new sounds.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:349px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;### Compilation Albums:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:372px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- **Les vestiges du fléau (2021)**: A reissue of &amp;quot;Le Fléau&amp;quot; with additional tracks, including&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:387px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;collaborations with artists like J Balvin and Maluma.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:410px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;### Notable Singles:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:433px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- **&amp;quot;Est-ce que tu m'aimes?&amp;quot;**: One of his most famous tracks, it became a massive hit in&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:448px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;multiple countries.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:71px; top:471px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- **&amp;quot;Sapés comme jamais&amp;quot;**: This song won the Best French Song at the NRJ Music Awards.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:493px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- **&amp;quot;La même&amp;quot;**: A duet with Vianney, which topped the charts and received widespread&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:508px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;acclaim.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:531px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;### With Sexion d'Assaut:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:554px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- **L'École des Points Vitaux (2010)**: A major hit that includes tracks like &amp;quot;Désolé&amp;quot; and &amp;quot;Ma&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:569px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;direction.&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:71px; top:592px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- **L'Apogée (2012)**: Another successful album featuring hits such as &amp;quot;Avant qu'elle parte.&amp;quot;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:615px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- Maitre Gims' discography highlights his ability to transcend genres and consistently produce&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:630px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;music that resonates with a broad audience. His unique style, powerful vocals, and innovative&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:644px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;approach have made him a standout artist in the contemporary music landscape.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

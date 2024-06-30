@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Zivot\dualipa.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">dualipa.jpg</Metadata>
+    <Metadata name="OrigSource">dualipa.jpg</Metadata>
+    <Metadata name="Source">dualipa.jpg</Metadata>
+    <Metadata name="SourceFile">dualipa.jpg</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="FileSize">619784</Metadata>
+    <Metadata name="ImageType">unknown</Metadata>
+    <Metadata name="ImageWidth">unknown</Metadata>
+    <Metadata name="ImageHeight">unknown</Metadata>
+    <Metadata name="ImageSize">unknown</Metadata>
+    <Metadata name="srclink_file">dualipa.jpg</Metadata>
+    <Metadata name="srclinkFile">dualipa.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1990s - Present, United Kingdom, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Description">This document explores the personal and professional life of Dua Lipa, offering insights into her early years, career, and activities outside of music. </Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Life Stories Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source"> Compiled from autobiographies, interviews, and historical records.</Metadata>
+    <Metadata name="dc.Subject">Life, Biography, Dua Lipa, Personal Life</Metadata>
+    <Metadata name="dc.Title">Life of Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Life of Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">dualipa</Metadata>
+    <Metadata name="Identifier">HASH01f4ae33adfb4f6bd814ec09</Metadata>
+    <Metadata name="lastmodified">1719699809</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791546</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01f4.dir</Metadata>
+    <Metadata name="gsdlassocfile">dualipa.jpg:image/unknown:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

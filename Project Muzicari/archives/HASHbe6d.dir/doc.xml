@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791528/facts.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791528/facts.html</Metadata>
+    <Metadata name="Title">facts</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\facts.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719791528\facts.html</Metadata>
+    <Metadata name="OrigSource">facts.html</Metadata>
+    <Metadata name="Source">facts.pdf</Metadata>
+    <Metadata name="SourceFile">facts.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">39551</Metadata>
+    <Metadata name="FilenameRoot">facts</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Coverage">1990s - Present, United Kingdom, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Trivia Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from interviews, articles, and fan contributions.</Metadata>
+    <Metadata name="dc.Subject">This document contains a collection of interesting and lesser-known facts about Dua Lipa, highlighting unique aspects of her career and personal life.</Metadata>
+    <Metadata name="dc.Title">Interesting Facts about Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Interesting Facts about Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASHbe6dfed248bee560cdf5a9</Metadata>
+    <Metadata name="lastmodified">1719699815</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791528</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHbe6d.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:72px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Dua’s a fan of high-end fashion. &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Dua Lipa is known for her stylish sense&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:91px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;of dress, and she’s not afraid to splurge on designer clothes. She’s been&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:111px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;spotted wearing everything from Chanel to Gucci, and she even has her&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:130px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;own clothing line in collaboration with Pepe Jeans.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:179px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Dua’s a car enthusiast. &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Dua Lipa loves cars, and she’s been known to&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:199px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;drive some pretty luxurious models. She’s been seen in a Ferrari, a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:218px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Lamborghini, and even a Rolls-Royce.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:267px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Dua’s a homebody. &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Despite her jet-setting lifestyle, Dua Lipa is also a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:288px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;homebody who loves to relax in her luxurious apartment in London.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:309px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;She’s said that she enjoys spending time in her kitchen, cooking and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:330px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;baking.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:388px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Dua’s a homebody. &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Despite her jet-setting lifestyle, Dua Lipa is also a&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:409px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;homebody who loves to relax in her luxurious apartment in London.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:431px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;She’s said that she enjoys spending time in her kitchen, cooking and&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:452px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;baking&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:516px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;Additional, Dua is starring as Mermaid Barbie in this summer’s&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:535px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;anticipated hit “&lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(47,47,47,1);&quot;&gt;Barbie Movie&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:16px;vertical-align:baseline;color:rgba(9,9,9,1);&quot;&gt;.”&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

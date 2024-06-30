@@ -1,0 +1,85 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700619\Biography.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\album_cover.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\concert_photo.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\early_years.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Biografija\later_yearsjpg.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\abbey_road.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700630\discography.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\let_it_be.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\please_please_me.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\sgt_pepper.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700637\Interesting_facts.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\ed_sullivan.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\india_visit.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\memorabilia.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Interestni Fakti\rooftop_concert.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Come Together.ogv is being processed by MediainfoOGVPlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Here Comes The Sun (2019 Mix).mp4.ogv is being processed by MediainfoOGVPlugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Hey Jude.mp3 is being processed by MP3Plugin.
+The file Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Let It Be.mp3 is being processed by MP3Plugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700647\The Beatles Songs.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\award_ceremony.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700656\awards.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\brit_award.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\grammy.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Nagradi\receiving_award.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\metadata.xml is being processed by MetadataXMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\childhood.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\george_estate.jpg is being processed by ImagePlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\john.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700668\life.html is being processed by HTMLPlugin.
+The file Beqir Fazli 191045- The Beatles\Zivot\paul_family.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Biografija\metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700671\Biography.html is being processed by HTMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Biografija\dua-lipa-throwback-photo.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Biografija\hits.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Biografija\images.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Biografija\main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Diskografija ili Filmografija\metadata.xml is being processed by MetadataXMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Diskografija ili Filmografija\Dua-Lipa-696x442.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Diskografija ili Filmografija\F7zdRtIaIAAFgAs.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700685\discography and filmography.html is being processed by HTMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Diskografija ili Filmografija\images.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Diskografija ili Filmografija\tumblr_6b3d3d9c327adafd307c3a7c23c5089d_4ee24e64_500.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\metadata.xml is being processed by MetadataXMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\5-Things-You-Didnt-Know-About-Dua-Lipa2.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700694\facts.html is being processed by HTMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\images (1).jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\images.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Muziki\metadata.xml is being processed by MetadataXMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Muziki\Dua Lipa - Houdini (Official Music Video).mp3 is being processed by MP3Plugin.
+The file Besnik Durguti 191253 - Dua Lipa\Muziki\Dua Lipa - Illusion (The Blaze Remix) [Official Visualiser].mp3 is being processed by MP3Plugin.
+The file Besnik Durguti 191253 - Dua Lipa\Muziki\Dua Lipa - Love Again (Official Music Video).ogv is being processed by MediainfoOGVPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Muziki\Dua Lipa - New Rules (Official Music Video).ogv is being processed by MediainfoOGVPlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700700\musics.html is being processed by HTMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Nagradi\metadata.xml is being processed by MetadataXMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Nagradi\4e4f3c3759d9877425937d68918a457f.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700703\Wins.html is being processed by HTMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Nagradi\images.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Nagradi\main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Nagradi\unnamed.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Zivot\metadata.xml is being processed by MetadataXMLPlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Zivot\Dua-Lipa-2-af136cf23baf41f184b71a4fd1dba31c.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Zivot\dua-lipa-parents-5-6770a0c0af84482da146c3bce4c5ef27.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Zivot\dua-lipa.jpg is being processed by ImagePlugin.
+The file Besnik Durguti 191253 - Dua Lipa\Zivot\dualipa.jpg is being processed by ImagePlugin.
+The file C:\Users\Beqir\Greenstone3\web\sites\localsite\collect\projektm\tmp\1719700721\life.html is being processed by HTMLPlugin.
+************** Import Finished **************
+60 documents were considered for processing:
+    60 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Title;dc.Contributor;dc.Coverage;dc.Creator;dc.Date;dc.Description;dc.Format;dc.Language;dc.Relation;dc.Type;dc.Rights;dc.Source;dc.Subject;gs.DocumentHeader;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Title;dc.Contributor;dc.Coverage;dc.Creator;dc.Date;dc.Description;dc.Format;dc.Language;dc.Relation;dc.Type;dc.Rights;dc.Source;dc.Subject;gs.DocumentHeader;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

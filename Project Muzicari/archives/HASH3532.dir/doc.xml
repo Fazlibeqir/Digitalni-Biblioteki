@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Bleron - Maitre Gims\Biography\pic3.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">pic3.jpg</Metadata>
+    <Metadata name="OrigSource">pic3.jpg</Metadata>
+    <Metadata name="Source">pic3.jpg</Metadata>
+    <Metadata name="SourceFile">pic3.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">8193</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">318</Metadata>
+    <Metadata name="ImageHeight">159</Metadata>
+    <Metadata name="ImageSize">8KB</Metadata>
+    <Metadata name="srclink_file">pic3.jpg</Metadata>
+    <Metadata name="srclinkFile">pic3.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">pic3_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">50</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">pic3_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">250</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Besnik Durguti</Metadata>
+    <Metadata name="dc.Coverage">1980s - Present, France</Metadata>
+    <Metadata name="dc.Creator">Bleron Iseni</Metadata>
+    <Metadata name="dc.Date">2024-06-29</Metadata>
+    <Metadata name="dc.Description">This document provides a detailed biography of Maître Gims, covering his early life, rise to fame, musical achievements, and influence in the rap and hip-hop industry.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">French</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Maître Gims: The Complete Biography&quot; collection.</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from various sources including interviews, articles, and official records.</Metadata>
+    <Metadata name="dc.Subject">Biography, Maître Gims, Music Career, Rapper</Metadata>
+    <Metadata name="dc.Title">Biography of Maître Gims</Metadata>
+    <Metadata name="dc.Type">Text/Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Biography of Maître Gims by Bleron Iseni</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">pic3</Metadata>
+    <Metadata name="Identifier">HASH3532c714144e8a3f39e749</Metadata>
+    <Metadata name="lastmodified">1719790681</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719791557</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH3532.dir</Metadata>
+    <Metadata name="gsdlassocfile">pic3.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">pic3_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">pic3_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Nagradi\main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="OrigSource">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="Source">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="SourceFile">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">64938</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">602</Metadata>
+    <Metadata name="ImageHeight">602</Metadata>
+    <Metadata name="ImageSize">63.4KB</Metadata>
+    <Metadata name="srclink_file">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="srclinkFile">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">2010s - Present, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Description">This document lists the numerous awards and recognitions received by Dua Lipa throughout her career, highlighting her significant contributions to music. </Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation"> Related to &quot;Dua Lipa Honors and Accolades Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from award ceremony records, music industry databases, and official announcements.</Metadata>
+    <Metadata name="dc.Subject">Awards, Dua Lipa, Music Awards, Achievements</Metadata>
+    <Metadata name="dc.Title">Awards Won by Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Awards Won by Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq</Metadata>
+    <Metadata name="Identifier">HASH01bdda196d0f20774c713571</Metadata>
+    <Metadata name="lastmodified">1719699809</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791537</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01bd.dir</Metadata>
+    <Metadata name="gsdlassocfile">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">main-qimg-231a5ec99407f79404f6e9d65c67d945-lq_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

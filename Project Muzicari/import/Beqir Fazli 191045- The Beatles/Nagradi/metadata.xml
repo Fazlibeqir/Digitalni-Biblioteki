@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Awards Won by The Beatles</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Beqir Fazli</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Awards, The Beatles, Music Awards, Achievements</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">This document lists the numerous awards and recognitions received by The Beatles throughout their career, highlighting their significant contributions to music.</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-23</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text/Document and Images</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF and JPEG</Metadata>
+			<Metadata mode="accumulate" name="dc.Source"> Compiled from award ceremony records, music industry databases, and official announcements.</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Related to "The Beatles Honors and Accolades Collection"</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">1960s - Present, Worldwide</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Awards Won by The Beatles by Beqir Fazli</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

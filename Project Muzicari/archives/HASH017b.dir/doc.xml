@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Beqir Fazli 191045- The Beatles\Muziki\The Beatles - Here Comes The Sun %282019 Mix%29.mp4.ogv</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MediainfoOGVPlugin</Metadata>
+    <Metadata name="FileSize">10356403</Metadata>
+    <Metadata name="Source">The Beatles - Here Comes The Sun (2019 Mix).mp4.ogv</Metadata>
+    <Metadata name="SourceFile">The Beatles - Here Comes The Sun %25282019 Mix%2529.mp4.ogv</Metadata>
+    <Metadata name="FileFormat">ogv</Metadata>
+    <Metadata name="dc.Format">ogv</Metadata>
+    <Metadata name="MimeType">video/ogg</Metadata>
+    <Metadata name="Movie">The Beatles - Here Comes The Sun (2019 Mix).mp4.ogv</Metadata>
+    <Metadata name="srclink_file">The Beatles - Here Comes The Sun %25282019 Mix%2529.mp4.ogv</Metadata>
+    <Metadata name="srclinkFile">The Beatles - Here Comes The Sun %25282019 Mix%2529.mp4.ogv</Metadata>
+    <Metadata name="srcicon">_iconogg_</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1960s - 1970s, United Kingdom</Metadata>
+    <Metadata name="dc.Creator">Beqir Fazli</Metadata>
+    <Metadata name="dc.Date">2024-06-23</Metadata>
+    <Metadata name="dc.Description">This document provides an in-depth look at the music of The Beatles, including detailed information about their albums, singles, and musical style.</Metadata>
+    <Metadata name="dc.Format">PDF , mp3 and ogv</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;The Beatles Music Archive&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official records, music databases, and scholarly articles.</Metadata>
+    <Metadata name="dc.Subject">Music, The Beatles, Albums, Songs</Metadata>
+    <Metadata name="dc.Title">Music by The Beatles</Metadata>
+    <Metadata name="dc.Type">Text/Document , audio and video</Metadata>
+    <Metadata name="gs.DocumentHeader">Music by The Beatles by Beqir Fazli</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://archive.org/details/the-beatles-1967-1970-2023-edition</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">The Beatles - Here Comes The Sun (2019 Mix).mp4</Metadata>
+    <Metadata name="Identifier">HASH017b8255c3217d8afc342c30</Metadata>
+    <Metadata name="lastmodified">1719696239</Metadata>
+    <Metadata name="lastmodifieddate">20240629</Metadata>
+    <Metadata name="oailastmodified">1719791497</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH017b.dir</Metadata>
+    <Metadata name="gsdlassocfile">The Beatles - Here Comes The Sun %282019 Mix%29.mp4.ogv:video/ogg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

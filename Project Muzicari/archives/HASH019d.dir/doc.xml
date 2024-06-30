@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Beqir Fazli 191045- The Beatles\Diskografija ili Filmografija\abbey_road.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">abbey_road.jpg</Metadata>
+    <Metadata name="OrigSource">abbey_road.jpg</Metadata>
+    <Metadata name="Source">abbey_road.jpg</Metadata>
+    <Metadata name="SourceFile">abbey_road.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">11735</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">225</Metadata>
+    <Metadata name="ImageHeight">225</Metadata>
+    <Metadata name="ImageSize">11.5KB</Metadata>
+    <Metadata name="srclink_file">abbey_road.jpg</Metadata>
+    <Metadata name="srclinkFile">abbey_road.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">abbey_road_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">abbey_road_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Besnik Durguti</Metadata>
+    <Metadata name="dc.Coverage">1960s - 1970s, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Beqir Fazli</Metadata>
+    <Metadata name="dc.Date">2024-06-23</Metadata>
+    <Metadata name="dc.Description">This document provides a comprehensive list of all albums produced by The Beatles, including release dates and notable details.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;The Beatles Complete Works&quot; collection.</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from official discographies, and music databases.</Metadata>
+    <Metadata name="dc.Subject">Discography, Filmography, The Beatles, Albums</Metadata>
+    <Metadata name="dc.Title">Discography and Filmography of The Beatles</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader"> Discography and Filmography of The Beatles by Beqir Fazli</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://archive.org/details/the-beatles-discography_202305</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">abbey road</Metadata>
+    <Metadata name="Identifier">HASH019d604c36024def4d40ccf6</Metadata>
+    <Metadata name="lastmodified">1719696245</Metadata>
+    <Metadata name="lastmodifieddate">20240629</Metadata>
+    <Metadata name="oailastmodified">1719791488</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH019d.dir</Metadata>
+    <Metadata name="gsdlassocfile">abbey_road.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">abbey_road_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">abbey_road_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

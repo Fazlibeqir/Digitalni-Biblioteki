@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Besnik Durguti 191253 - Dua Lipa\Interestni Fakti\Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="OrigSource">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="Source">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="SourceFile">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="FileFormat">unknown</Metadata>
+    <Metadata name="FileSize">226794</Metadata>
+    <Metadata name="ImageType">unknown</Metadata>
+    <Metadata name="ImageWidth">unknown</Metadata>
+    <Metadata name="ImageHeight">unknown</Metadata>
+    <Metadata name="ImageSize">unknown</Metadata>
+    <Metadata name="srclink_file">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="srclinkFile">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">1990s - Present, United Kingdom, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Besnik Durguti</Metadata>
+    <Metadata name="dc.Date">2024-06-24</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Dua Lipa Trivia Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from interviews, articles, and fan contributions.</Metadata>
+    <Metadata name="dc.Subject">This document contains a collection of interesting and lesser-known facts about Dua Lipa, highlighting unique aspects of her career and personal life.</Metadata>
+    <Metadata name="dc.Title">Interesting Facts about Dua Lipa</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Interesting Facts about Dua Lipa by Besnik Durguti</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled</Metadata>
+    <Metadata name="Identifier">HASHaaacc8c331c20ee3dcb5c4</Metadata>
+    <Metadata name="lastmodified">1719699815</Metadata>
+    <Metadata name="lastmodifieddate">20240630</Metadata>
+    <Metadata name="oailastmodified">1719791527</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHaaac.dir</Metadata>
+    <Metadata name="gsdlassocfile">Dua-Lipa-Signs-Seven-Figure-Deal-With-Porsche-scaled.jpeg:image/unknown:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

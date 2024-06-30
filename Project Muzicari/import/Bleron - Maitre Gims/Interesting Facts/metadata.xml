@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Interesting Facts about Maître Gims</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Bleron Iseni</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Interesting Facts, Trivia, Maître Gims, Fun Facts</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">This document contains a collection of interesting and lesser-known facts about Maître Gims, highlighting unique aspects of his career and personal life.</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Beqir Fazli</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-29</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text/Document and Images</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF and JPEG</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Compiled from interviews, articles, and fan contributions.</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">French</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Related to "Maître Gims Trivia Collection"</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">1980s - Present, France, Worldwide</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Interesting Facts about Maître Gims by Bleron Iseni</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

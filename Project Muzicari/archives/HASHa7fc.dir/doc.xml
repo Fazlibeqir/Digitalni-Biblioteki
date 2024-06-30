@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791571/Life.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Beqir/Greenstone3/web/sites/localsite/collect/projektm/tmp/1719791571/Life.html</Metadata>
+    <Metadata name="Title">Life</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Bleron - Maitre Gims\Life\Life.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719791571\Life.html</Metadata>
+    <Metadata name="OrigSource">Life.html</Metadata>
+    <Metadata name="Source">Life.pdf</Metadata>
+    <Metadata name="SourceFile">Life.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">299318</Metadata>
+    <Metadata name="FilenameRoot">Life</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Contributor">Beqir Fazli</Metadata>
+    <Metadata name="dc.Coverage">1980s - Present, France, Worldwide</Metadata>
+    <Metadata name="dc.Creator">Bleron Iseni</Metadata>
+    <Metadata name="dc.Date">2024-06-29</Metadata>
+    <Metadata name="dc.Description">This document explores the personal and professional life of Maître Gims, offering insights into his early years, career, and activities outside of music.</Metadata>
+    <Metadata name="dc.Format">PDF and JPEG</Metadata>
+    <Metadata name="dc.Language">French</Metadata>
+    <Metadata name="dc.Relation">Related to &quot;Maître Gims Life Stories Collection&quot;</Metadata>
+    <Metadata name="dc.Rights">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</Metadata>
+    <Metadata name="dc.Source">Compiled from autobiographies, interviews, and historical records.</Metadata>
+    <Metadata name="dc.Subject">Life, Biography, Maître Gims, Personal Life</Metadata>
+    <Metadata name="dc.Title">Life of Maître Gims</Metadata>
+    <Metadata name="dc.Type">Text/Document and Images</Metadata>
+    <Metadata name="gs.DocumentHeader">Life of Maître Gims by Bleron Iseni</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASHa7fc2ec65ef5423ebe16f3</Metadata>
+    <Metadata name="lastmodified">1719790681</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719791572</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHa7fc.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p1f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f189 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f191 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:287px; top:77px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:21px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Life&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:109px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;- At the age of 19, he married a French woman living in Morocco, with whom he&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:123px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;had four children. While continuing this union , he married in 2005 a French&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:137px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;woman of &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Malian &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;origin , Adja-Damba Dante , nicknamed Demdem . He&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:151px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;converted to Islam &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;in &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;2004 . In 2005, he joined the &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Tabligh brothers &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;movement ,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:164px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;which he later left and now considers a &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;sect &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;. He recounts in a documentary&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:178px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;dedicated to him on &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Netflix &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;: &amp;quot;There were people who ended up dead, committed&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:192px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;suicide in Iraq. People who were next to me. And that freaked me out, I don't&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:206px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;know where I could have ended up.&amp;quot; Originally &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Catholic &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, he indicated in 2016&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:220px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;that Barack Adama, his friend from the group Sexion d'Assaut, convinced him to&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:233px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;convert &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;to Islam &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, as well as after an interview with an &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;imam &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:289px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;- In March 2018, he indicates that he requested &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;French nationality &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;and that it was&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:302px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;refused to him. According to &lt;/span&gt;&lt;span class=&quot;p1f88&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Closer &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;magazine , this decision was due to his&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:316px;&quot;&gt;&lt;span class=&quot;p1f94&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;“ &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;bigamy &lt;/span&gt;&lt;span class=&quot;p1f94&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;”, which is not authorized in &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;French &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;or &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;European law &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;. However, Maître&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:330px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;Gims disputes this version of the facts. In an interview with the &lt;/span&gt;&lt;span class=&quot;p1f88&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Journal du&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:344px;&quot;&gt;&lt;span class=&quot;p1f88&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Dimanche &lt;/span&gt;&lt;span class=&quot;p1f94&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, in 2022, to the question: “We lend you a second wife in Morocco. Are&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:358px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;you polygamous? &amp;quot;, he replies: &amp;quot;That's totally false. I live with DemDem and the&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:371px;&quot;&gt;&lt;span class=&quot;p1f94&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;children. I was married only once. » He specifies: “the refusal [of the nationality&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:385px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;application] is linked to an offense that I committed when I was a minor. But my&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:399px;&quot;&gt;&lt;span class=&quot;p1f94&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;record is clean”&lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;. According to an investigation by the newspaper &lt;/span&gt;&lt;span class=&quot;p1f88&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Le Parisien &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, his&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:413px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;first application for nationality was blocked for failure to pay&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:427px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;fines &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;for &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;traffic &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;offenses &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, and due to his inability to establish the center of his&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:440px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;material interests in France, the interpreter and his family would live too much&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:454px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;in &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Morocco &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;and not enough in France to be considered French .&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:511px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;- At the beginning of 2022, he relaunched the procedure for obtaining French&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:524px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;nationality . The &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Minister of the Interior &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;Gérald Darmanin &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;, estimates theJanuary&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:538px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;25, 2022on &lt;/span&gt;&lt;span class=&quot;p1f88&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,255,1);&quot;&gt;France Inter &lt;/span&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;that the rapper's recent comments on the New Year did&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:552px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;not demonstrate &amp;quot;good proof of assimilation into French society&amp;quot; . The minister&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:566px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;nevertheless assured that his request would be, like all the others, re-examined&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:580px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;by his services . He has a Congolese diplomatic passport obtained in 2022&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>
